@@ -1,6 +1,6 @@
 {
   "name": "geo-eta-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-dependency geospatial Haversine distance calculator, ETA estimator, and interactive terminal CLI",
   "type": "module",
   "main": "./index.js",
