@@ -39,5 +39,10 @@
   "license": "MIT",
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<your-github-username>/geo-eta-cli.git"
+  },
+  "homepage": "https://github.com/<your-github-username>/geo-eta-cli#readme"
 }
